@@ -5,7 +5,7 @@ def calculatePay():
     hrs = int(input ("Enter Hours: "))
     rate = int (input("Enter Rate: "))
     pay = hrs * rate
-    
+
     print (pay)
     # end assignment
 
@@ -13,4 +13,4 @@ def calculatePay():
 ## uncomment calculatePay() and run > python payCalculator.py
 ## ***IMPORTANT*** please recomment before you submit/sync your assignment.
 ## OR YOUR TEST WILL NOT RUN
-calculatePay()
+#calculatePay()
